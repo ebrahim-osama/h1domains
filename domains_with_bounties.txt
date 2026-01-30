@@ -1,1 +1,1 @@
-*.mercadolibre.com.mx
+blog.remitly.com
