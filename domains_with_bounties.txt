@@ -1,1 +1,1 @@
-enterpriseregistration.bitstamp.net
+*.mercadolibre.com.uy
