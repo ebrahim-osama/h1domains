@@ -1,1 +1,1 @@
-*.houseoffun.com
+*.trip.com
