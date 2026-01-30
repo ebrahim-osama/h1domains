@@ -1,1 +1,1 @@
-openapiportal.m-pesa.com
+api.au.frontegg.com
