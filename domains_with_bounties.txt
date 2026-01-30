@@ -1,1 +1,1 @@
-*.mercadolibre.com.co
+knox.beta.blendlabs.com
