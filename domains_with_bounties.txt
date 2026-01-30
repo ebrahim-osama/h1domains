@@ -1,1 +1,1 @@
-*.mercadolibre.com.uy
+fever.wnba.com
